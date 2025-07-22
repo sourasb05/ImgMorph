@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 ## 📃 License
 
-MIT License © 2025 [Your Name]
+MIT License © 2025 sourasb05
 
 ---
 
